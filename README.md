@@ -1,3 +1,13 @@
+# Technologies Used
+React, NPM, JavaScript, JSX, HTML, CSS
+
+# Exceeds Expectations Requirements Met
+1. Clicking the browser's forward and back buttons navigates the user through all search history, keeping the URL and fetched data in sync for all routes, including the search route.
+2. App includes a 404-like error route that displays when a URL path does not match an existing route.
+3. App displays a loading indicator each time the app fetches new data on at least the search route.
+4. If no matches are found by the search, the app includes a message to tell the user there are no matches.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
