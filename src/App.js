@@ -93,7 +93,7 @@ performSearch = (query) => {
   render (){
     console.log(this.state.photos)
     return (
-      <BrowserRouter basename="/react_gallery_project_7">
+      <BrowserRouter>
         <div className="container">
             <SearchForm onSearch={this.performSearch}/>
             <MainNav />
